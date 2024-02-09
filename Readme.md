@@ -22,7 +22,7 @@ Welcome to [Your App Name], your ultimate companion in unraveling the mysteries 
 
 3. **Deliver the Result:** Receive tailored, real-time responses, transforming complex crypto concepts into easily digestible insights.
 
-## Why [Your App Name]
+## Why Crypto Companion
 
 - **Democratizing Crypto Knowledge:** We strive to bridge the gap in the crypto market, offering clarity and accessibility to users of all experience levels.
 

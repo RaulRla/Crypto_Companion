@@ -31,7 +31,7 @@ Welcome to Crypto companion, your companion in the mysteries of cryptocurrency. 
 ## Installation
 
 The models were trained in a dataset, to use follow the instructions in the  jupyter notebook.
-were used a gpt2-medium model and a T5 model fopr question and answer.
+were used a gpt2-medium model and a T5 model fopr question and answer. To use just click in the BAT file in the folder Crypto companion beside full_app.
 
 ## Reference
 
